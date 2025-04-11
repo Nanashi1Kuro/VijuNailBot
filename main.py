@@ -5,7 +5,7 @@ import json
 import os
 from datetime import datetime
 
-API_TOKEN = '8052784836:AAFCrYFkDC8voJT0S0xhy9-G892WhD8YV8M'
+API_TOKEN = 'yoir token'
 
 # Настройки бота
 logging.basicConfig(level=logging.INFO)
